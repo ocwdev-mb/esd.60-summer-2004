@@ -1,0 +1,53 @@
+{
+  "term": "Summer",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "legacy_uid": "5b91ac6f-73e8-c37e-fa3c-62bf3c078954",
+  "instructors": {
+    "content": [
+      "f51fc489-e59a-38c5-7f93-1504fbb1076f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4c4ead75-abd4-251d-779d-6cb41e69cff0",
+    "website": "esd-60-lean-six-sigma-processes-summer-2004"
+  },
+  "course_title": "Lean/Six Sigma Processes",
+  "course_description": "Students of this course will develop a broad understanding of Lean/Six Sigma principles and practices, build capability to implement Lean/Six Sigma initiatives in manufacturing operations, and learn to operate with awareness of Lean/Six Sigma at the enterprise level. All course materials are organized around a common \"single-point lesson\" (SPL) format, with some of the SPLs provided by the instructor and guests and with some developed and delivered by student teams.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.60",
+  "course_image_thumbnail": {
+    "content": "a6db258d-dd72-5579-616d-8399c74ae5a5",
+    "website": "esd-60-lean-six-sigma-processes-summer-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "6869deb0-b1d8-4f54-934d-7daad67b9902",
+  "site_short_id": "esd.60-summer-2004",
+  "title": "Course Metadata"
+}
